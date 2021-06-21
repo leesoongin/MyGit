@@ -1,5 +1,3 @@
-package com.example.homework2;
-
-public class A {
-    // conflict 해결
+package com.example.homework2;public class A {
+    //devC, master marge conflict생김 수정함~~
 }
